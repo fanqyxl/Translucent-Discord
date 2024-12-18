@@ -15,7 +15,7 @@
   /*
    * Background image variables
    */
-  --background-image: url("https://i.imgur.com/kYW2H5C.jpg"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://pbs.twimg.com/media/DR0mDZYWkAIPz24.jpg:large"); /* Main background image | URL MUST BE A DIRECT LINK 
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
@@ -23,7 +23,7 @@
    * User Popout variables
    * This will only affect the user profile (when clicking on a member in the members list)
    */
-  --popout-image: var(--background-image); /* Background image for popouts and modals | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --popout-image: var(--background-image); /* Background image for popouts and modals | URL MUST BE A DIRECT LINK  */
   --popout-image-blur: 5px; /* Blur intensity of --popout-image | Must end in px | DEFAULT: 5px */
   --popout-image-size: cover; /* Size of the popout/modal image | DEFAUT: cover | OPTIONS: cover, contain */
   --popout-image-position: center; /* Position of popout/modal image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
