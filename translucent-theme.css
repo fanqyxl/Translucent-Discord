@@ -11,7 +11,7 @@
 @import url('https://raw.githubusercontent.com/fanqyxl/Translucent-Discord/refs/heads/main/translucentglass.css');
 
 /* Old Windows titlebar - remove this @import if you wish to use default titlebar */
-@import url("https://discordstyles.github.io/Addons/windows-titlebar.css");
+@import url("https://raw.githubusercontent.com/fanqyxl/Translucent-Discord/refs/heads/main/windows-titlebar.css");
 :root {
   /*
    * Background image variables
