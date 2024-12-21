@@ -5,6 +5,7 @@ Discord Theme: **Translucent-Discord**
 ## 🎨 About  
 
 A Discord Theme Coded In CSS For My Hackclub Project!!
+Sadly, I didn't realize my wakatime glitched, so most of the time I spent on this project, was wasted and not logged.
 
 ## 📸 Screenshots  
 ![image](https://github.com/user-attachments/assets/b5eb8507-41bd-41f9-a22c-060942256dbb)
